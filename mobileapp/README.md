@@ -1,3 +1,4 @@
 # mobileapp
 
-A new Flutter project.
+A simple DatePicker app which counts the difference between the date selected and 31st Dec 2024
+
